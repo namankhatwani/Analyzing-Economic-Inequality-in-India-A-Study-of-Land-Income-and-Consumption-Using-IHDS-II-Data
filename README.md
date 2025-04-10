@@ -49,7 +49,4 @@ The dataset used is from the [ICPSR Study 36151](https://www.icpsr.umich.edu/web
 - **R Programming**
 - Libraries: `dplyr`, `ggplot2`, `Pareto`, `nortest`, `DescTools`, `lawstat`
 
----
-
-## 📚 Folder Structure
 
