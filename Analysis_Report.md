@@ -105,16 +105,6 @@ This report analyzes household-level data from the IHDS-II dataset to estimate p
 
 ---
 
-## 📊 Visual Outputs (Suggested)
-
-Include the following in `/outputs/plots/`:
-- Histogram plots for INCOME, COTOTAL by sector
-- Density plots for log-transformed income, land, and consumption
-- Pareto PDFs and CDFs
-- Lorenz curves for each indicator
-
----
-
 ## 📦 Packages Used
 
 ```r
